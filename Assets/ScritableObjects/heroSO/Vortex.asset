@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdbfd2b94b699940a5549e86472d8cb, type: 3}
+  m_Name: Vortex
+  m_EditorClassIdentifier: 
+  heroPrefab: {fileID: 1802209241987651303, guid: 10a515c6bc5d62144a547428e6b04771, type: 3}
+  heroOut: {fileID: 2639241299052728336, guid: ab7801574f8231b4dae3b87c3c46794c, type: 3}
+  heroName: Vortex
+  hireCoin: 10
+  playerHealth: 20
+  attackPower: 3
+  playerFear: 15

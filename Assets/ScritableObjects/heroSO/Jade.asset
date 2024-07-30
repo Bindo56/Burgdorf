@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcdbfd2b94b699940a5549e86472d8cb, type: 3}
+  m_Name: Jade
+  m_EditorClassIdentifier: 
+  heroPrefab: {fileID: 1802209241987651303, guid: 50be9d0c515f87f42a4f1a08ede6f8b5, type: 3}
+  heroOut: {fileID: 2639241299052728336, guid: 95f072451d8f74c4899857f30ad9a243, type: 3}
+  heroName: Jade
+  hireCoin: 20
+  playerHealth: 32
+  attackPower: 2
+  playerFear: 4
